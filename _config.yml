@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Maxime Lauzier"
 description: En route vers ma remise en forme
-
+permalink: pretty
 email: maximelt@outlook.com
 #blog logo
 logo: "/assets/images/ml_logo.png"
