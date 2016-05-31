@@ -1,0 +1,37 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "Maxime Lauzier"
+description: En route vers ma remise en forme
+
+email: maximelt@outlook.com
+#blog logo
+logo: "/assets/images/ml_logo.png"
+# blog cover
+cover: "/assets/images/souliers.jpg"
+
+name: 'Maxime Lauzier'
+author: 'Maxime Lauzier'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://maximelauzier.github.io" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@maxillusion'
+
+#fill in disqus shortname to use disqus
+disqus: maximelauzier
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/maxillusion
+    desc: Suivez-moi sur twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
